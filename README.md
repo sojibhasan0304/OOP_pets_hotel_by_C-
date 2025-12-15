@@ -53,10 +53,10 @@ OOP_pets_hotel_by_C-/
 
 ## Requirements
 
-* A C++ compiler that supports **C++17** (or newer recommended)
+* A C++ compiler that supports **C++17** 
 
   * GCC / MinGW / Clang / MSVC
-* **CMake** (3.16+ recommended)
+* **CMake** 
 
 ## Build and Run (CMake)
 
@@ -68,29 +68,6 @@ cd build
 cmake ..
 cmake --build .
 ```
-
-### Run
-
-After building, run the generated executable from the `build` folder.
-(Executable name depends on your CMake project settings and compiler.)
-
-Example (Windows):
-
-```bash
-.\YourExecutableName.exe
-```
-
-Example (Linux/macOS):
-
-```bash
-./YourExecutableName
-```
-
-## Notes
-
-* If you are using an IDE (Visual Studio / CLion / VS Code), you can open the project folder and build using the IDE’s CMake support.
-* If your program uses file saving/loading, keep data files in the project root or a `data/` folder.
-
 ## Author
 
 * **sojibhasan0304**
