@@ -1,0 +1,85 @@
+# =====================================
+
+# Visual Studio 2022 + C++ + CMake
+
+# =====================================
+
+# --- Visual Studio folders/files ---
+
+.vs/
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+ipch/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS database/cache files
+
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+
+# MSBuild logs
+
+*.tlog
+*.lastbuildstate
+
+# --- CMake build outputs ---
+
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+Makefile
+compile_commands.json
+
+# Common CMake build directory names
+
+build*/
+cmake-build-*/
+
+# Visual Studio CMake generated out-of-source builds
+
+out/
+out/build/
+out/install/
+
+# --- Compiled artifacts ---
+
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.pdb
+*.ilk
+*.idb
+*.exp
+
+# --- OS junk ---
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Editor settings (optional) ---
+
+.vscode/
+.idea/
+*.code-workspace
