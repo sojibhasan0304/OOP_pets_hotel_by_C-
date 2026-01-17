@@ -46,9 +46,9 @@ OOP_pets_hotel_by_C-/
 │  ├─ CareSchedule.hpp
 │  ├─ ConsoleUtil.hpp
 │  └─ DateUtil.hpp
-├─ src/                   # Source files (.cpp)
-├─ main.cpp               # Entry point
-└─ CMakeLists.txt         # CMake build configuration
+├─ src/                   
+├─ main.cpp               
+└─ CMakeLists.txt         
 ```
 
 ## Requirements
